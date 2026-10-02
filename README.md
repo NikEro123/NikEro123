@@ -3,18 +3,23 @@
 Business Administration student at Caucasus University, Tbilisi. Teaching myself data
 analysis and Python alongside the degree.
 
-**Learning now:** CS50's Introduction to Databases with SQL · pandas · PostgreSQL
-**Working with:** Python, NumPy, SQLite, Git
+**Working with:** Python, pandas, NumPy, SQL (SQLite, MySQL, PostgreSQL), Git
+**Learning now:** Data visualization (matplotlib, seaborn)
 **Next:** Power BI and the PL-300 certification
 
 ### Projects
 
 | Repo | What it is |
 |---|---|
-| [NumPy-Sales-Analytics](https://github.com/NikEro123/NumPy-Sales-Analytics) | Vectorized cleaning and reporting over 100k rows — 33x faster than the loop equivalent |
+| [Georgian-Restaurant-Database](https://github.com/NikEro123/georgian-restaurant-database) | Relational database for a restaurant: users, orders and menu items linked through a junction table. CS50 SQL final project |
+| [NumPy-Sales-Analytics](https://github.com/NikEro123/NumPy-Sales-Analytics) | Vectorized cleaning and reporting over 100k rows, 33x faster than the loop equivalent |
 | [Organizing-Files-CSV](https://github.com/NikEro123/Organizing-Files-CSV) | Walks a folder tree and exports a CSV index of every file |
-| [2048-Game](https://github.com/NikEro123/2048-Game) | 2048 clone in Tkinter, with game logic and UI in separate modules |
 
-Open to junior roles in data analysis, Python, or QA — Tbilisi or remote.
+### Certificates
+
+- [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/218b5d09-26a2-4001-a7cd-d7f5947af842), Harvard
+- [Pandas](https://www.kaggle.com/learn/certification/nickokvirkvaia/pandas), Kaggle Learn
+
+Open to junior roles in data analysis, Python, or QA, in Tbilisi or remote.
 
 📫 kvirkvaianicko@gmail.com · [LinkedIn](https://www.linkedin.com/in/nicko-kvirkvaia-291b91412)
