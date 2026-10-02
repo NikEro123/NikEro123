@@ -11,7 +11,7 @@ analysis and Python alongside the degree.
 
 | Repo | What it is |
 |---|---|
-| [Georgian-Restaurant-Database](https://github.com/NikEro123/georgian-restaurant-database) | Relational database for a restaurant: users, orders and menu items linked through a junction table. CS50 SQL final project |
+| [Georgian-Restaurant-Database](https://github.com/NikEro123/Georgian-Restaurant-Database) | Relational database for a restaurant: users, orders and menu items linked through a junction table. CS50 SQL final project |
 | [NumPy-Sales-Analytics](https://github.com/NikEro123/NumPy-Sales-Analytics) | Vectorized cleaning and reporting over 100k rows, 33x faster than the loop equivalent |
 | [Organizing-Files-CSV](https://github.com/NikEro123/Organizing-Files-CSV) | Walks a folder tree and exports a CSV index of every file |
 
