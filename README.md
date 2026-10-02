@@ -3,9 +3,9 @@
 Business Administration student at Caucasus University, Tbilisi. Teaching myself data
 analysis and Python alongside the degree.
 
-**Working with:** Python, pandas, NumPy, SQL (SQLite, MySQL, PostgreSQL), Git
-**Learning now:** Data visualization (matplotlib, seaborn)
-**Next:** Power BI and the PL-300 certification
+- **Working with:** Python, pandas, NumPy, SQL (SQLite, MySQL, PostgreSQL), Git
+- **Learning now:** Data visualization (matplotlib, seaborn)
+- **Next:** Power BI and the PL-300 certification
 
 ### Projects
 
