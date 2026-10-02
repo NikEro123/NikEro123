@@ -19,6 +19,7 @@ analysis and Python alongside the degree.
 
 - [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/218b5d09-26a2-4001-a7cd-d7f5947af842), Harvard
 - [Pandas](https://www.kaggle.com/learn/certification/nickokvirkvaia/pandas), Kaggle Learn
+- [Python NumPy for Data Science](https://programiz.pro/certificates/CB7514686B79), Programiz
 
 Open to junior roles in data analysis, Python, or QA, in Tbilisi or remote.
 
